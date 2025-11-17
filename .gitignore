@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Excel files (uncomment if you don't want to track Excel templates)
+# *.xlsx
+# *.xls
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project specific
+# Keep template Excel files but ignore output files
+*_output.xlsx
+*_results.xlsx
+
